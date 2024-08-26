@@ -1,0 +1,43 @@
+.a1{
+    background-color:green;
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.a2{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.a3{
+    background-color: goldenrod;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.a4{
+    background-color: crimson;
+    width: 240px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
